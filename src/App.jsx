@@ -26,7 +26,7 @@ const App = () => {
                 {" "}
                 <h3 className=" text-[#52ffa8]">Advice #{id}</h3>
                 <p className=" text-[28px] text-[#cee3e9] text-center pb-2">
-                    {advice}
+                    "{advice}"
                 </p>
                 <img className="pb-5 md:block hidden" src={patterndesk} alt="divider" />
                 <img className="pb-5 md:hidden" src={patternmobile} alt="divider" />
