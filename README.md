@@ -56,7 +56,7 @@ Welcoming all contributions to improve the project! To contribute, please follow
 
 1. Fork the repository.
   
-2. Create a new branch for your feature or bug fix:
+2. Create a new branch for your feature:
    ```bash
    git checkout -b feature-name
    ```
