@@ -24,9 +24,9 @@ A web project built with React and Tailwind CSS that fetches advice data from th
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/gateremark/adviceproj
-```
+   ```bash
+   git clone https://github.com/gateremark/adviceproj
+   ```
 
 2. Navigate to the project directory:
    ```bash
