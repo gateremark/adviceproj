@@ -4,7 +4,7 @@ import { useState, useEffect } from "react";
 
 const App = () => {
     const [advice, setAdvice] = useState("");
-    const [id, setId] = useState(1);
+    const [id, setId] = useState(0);
 
     const fetchAdvice = async () => {
         const response = await fetch("https://api.adviceslip.com/advice");
